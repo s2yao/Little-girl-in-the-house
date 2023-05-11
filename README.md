@@ -1,4 +1,4 @@
-# Little girl in the house
+# A little girl’s house tour
  Side project 1
 
 # This is a game where you can control a girl to walk around in the house
